@@ -7,4 +7,4 @@ As of CBP Alpha 8, this plugin is bundled with CBP.
 ## License
 Note that unlike CBP Launcher and most first-party CBP plugins, this plugin is NOT licensed under the MPL 2.0 license.
 
-CBP Rules Editor Plugin (CBP-RE-Plugin) is licensed under the GNU General Public License v3 (or later).
+CBP Rules Editor Plugin (CBP-RE-Plugin) is licensed under the **GNU General Public License v3 (GPL3) or later**.
