@@ -1,4 +1,4 @@
-# CBP-RE-Plugin
+# CBP Rules.xml Editor Plugin (CBP-RE-Plugin)
 
 A simple GUI plugin for [CBP Launcher](https://github.com/MHLoppy/CBP-Launcher) that offers a more user-friendly way to modify values in the rules.xml file used by RoN:EE.
 
