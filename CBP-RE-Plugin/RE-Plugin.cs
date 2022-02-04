@@ -38,7 +38,7 @@ namespace CBP_RE_Plugin
         public bool DefaultMultiplayerCompatible => false;
 
         public string PluginDescription => "A basic user interface (GUI) to edit rules.xml values, mainly the pop limit and/or armageddon limit."
-            + "\n\nSource code: < L I N K   H E R E > ";
+            + "\n\nSource code: https://github.com/MHLoppy/CBP-RE-Plugin";
 
         public bool IsSimpleMod => false;
 
